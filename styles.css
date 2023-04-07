@@ -17,7 +17,7 @@ header{
     display: flex;
     justify-content:space-between;
     align-items: center;
-    padding:10px200px ;
+    padding: 10px 200px;
 
 }
 .logo{
@@ -30,9 +30,14 @@ header{
 
 
 }
-.navigation {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.navigation a{
+    color: #3a6cf4;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
   }
-  
+.navigation a:hover{
+    color: #601cfc;
+
+}  
