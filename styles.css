@@ -45,5 +45,16 @@ section{
     padding: 100px 200px;
 
 }
+.main{
+    width: 100%;
+    min-width: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/IMG-20230321-WA0001.jpg);no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
+  
+  
   
